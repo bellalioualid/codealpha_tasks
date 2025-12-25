@@ -46,14 +46,8 @@ This tool allows users to monitor live network traffic, view packet details, and
 
 ## 📦 Installation
 
-### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/your-username/network-packet-sniffer-gui.git
-cd network-packet-sniffer-gui
-```
-
-### 2️⃣ Install Dependencies
+###  Install Dependencies
 
 ```bash
 pip install scapy
@@ -155,5 +149,6 @@ This project is licensed under the **MIT License**.
 
 * [Scapy Documentation](https://scapy.net/)
 * Python & Open Source Community
+
 
 
