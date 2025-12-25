@@ -77,7 +77,7 @@ Packet sniffing requires elevated permissions.
 * **Linux/macOS**:
 
 ```bash
-sudo python3 packet_sniffer_gui.py
+sudo python3 sniffer.py
 ```
 
 ---
@@ -149,6 +149,7 @@ This project is licensed under the **MIT License**.
 
 * [Scapy Documentation](https://scapy.net/)
 * Python & Open Source Community
+
 
 
 
