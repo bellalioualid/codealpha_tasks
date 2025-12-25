@@ -65,7 +65,7 @@ pip install scapy
 ### Run the Application
 
 ```bash
-python packet_sniffer_gui.py
+python sniffe.py
 ```
 
 ### Important
@@ -149,6 +149,7 @@ This project is licensed under the **MIT License**.
 
 * [Scapy Documentation](https://scapy.net/)
 * Python & Open Source Community
+
 
 
 
