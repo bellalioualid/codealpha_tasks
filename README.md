@@ -1,5 +1,3 @@
-Below is a **clean, professional GitHub README.md** you can copy-paste and use directly.
-It’s written for developers, recruiters, and cybersecurity learners.
 
 ---
 
@@ -149,6 +147,7 @@ This project is licensed under the **MIT License**.
 
 * [Scapy Documentation](https://scapy.net/)
 * Python & Open Source Community
+
 
 
 
